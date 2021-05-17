@@ -1,0 +1,6 @@
+﻿  Dasha.cpp
+C:\Users\Владислав\source\repos\Dasha\Dasha\Dasha.cpp(60,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\source\repos\Dasha\Dasha\Dasha.cpp(66,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\source\repos\Dasha\Dasha\Dasha.cpp(86,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владислав\source\repos\Dasha\Dasha\Dasha.cpp(135,31): warning C4018: <: несоответствие типов со знаком и без знака
+  Dasha.vcxproj -> C:\Users\Владислав\source\repos\Dasha\Debug\Dasha.exe
